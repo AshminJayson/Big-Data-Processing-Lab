@@ -1,0 +1,6 @@
+name,id,cgpa1
+'ashmin',1,5
+'anz',2,6
+'ada',3,5
+'ara',4,5
+
